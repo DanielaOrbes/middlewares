@@ -1,0 +1,21 @@
+//informacion que se guarda en el servidorel usuario ingreso a la ruta
+el usuario ingreso a la ruta/
+el usuario ingreso a la ruta/music
+el usuario ingreso a la ruta/login
+el usuario ingreso a la ruta/
+el usuario ingreso a la ruta/contact
+el usuario ingreso a la ruta/about
+el usuario ingreso a la ruta/music
+el usuario ingreso a la ruta/about
+el usuario ingreso a la ruta/music
+el usuario ingreso a la ruta/login
+el usuario ingreso a la ruta/admin?user=daniiorbes15%40gmail.com
+el usuario ingreso a la ruta/noEntry
+el usuario ingreso a la ruta/css/style.css
+el usuario ingreso a la ruta/images/header.jpg
+el usuario ingreso a la ruta/images/menu.jpg
+el usuario ingreso a la ruta/music
+el usuario ingreso a la ruta/login
+el usuario ingreso a la ruta/contact
+el usuario ingreso a la ruta/login
+el usuario ingreso a la ruta/admin?user=greta
